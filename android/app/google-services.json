@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "218889734953",
+    "project_id": "trim-convict",
+    "storage_bucket": "trim-convict.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218889734953:android:c0f272f3099bc214b70538",
+        "android_client_info": {
+          "package_name": "com.example.trim_convict"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218889734953-2f2kpm537020pmcbl0lqun7mj5p4f7n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0RdtQCzDvULdQOBv90cPfl-jZ4xifaTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218889734953-2f2kpm537020pmcbl0lqun7mj5p4f7n3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "218889734953-gmnml6led8rbkuus7vpm4pijkgg06i9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trimConvict"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
